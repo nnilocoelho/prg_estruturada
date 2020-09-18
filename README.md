@@ -1,2 +1,2 @@
 # prg_estruturada
-Introdução a Programação Estruturada
+Introdução a Programação Estruturada - Lista de Exercicios Propostos.
